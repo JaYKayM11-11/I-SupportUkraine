@@ -1,0 +1,13 @@
+// This a framework to work with for the document.write()//
+Basic syntax of document.write() method:
+
+<body>
+    <script type="text/javascript">
+        <!--
+
+        document.write("How wonderful to meet you, " +
+        prompt("Hello, my name is James. What's yours?"));
+
+        //-->
+    </script>
+</body>
